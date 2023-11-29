@@ -1,5 +1,6 @@
 # 1) Easylist
 https://easylist.to/easylist/easylist.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 
 # 2) Fanboy Filters.
 https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt
